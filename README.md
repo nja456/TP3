@@ -35,6 +35,7 @@ Clean architecture is a software design philosophy that separates the elements o
 3) I will make a user friendly UI
    Build a search barre to get weather of any contry 
    add a forecast
+   add icon 
    make a .exe file
    clean my code and architecture
 
